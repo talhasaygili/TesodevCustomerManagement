@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{F36AAD7E-384C-48B9-8ABB-DCEA698FBF9F}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.OrderMicroservice PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CustomerMicroservice PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomerMicroservice/Controllers/CustomerController.cs">
+    <Files>
+      <File FileName="Core/DataAccess/IEntity.cs" />
+      <File FileName="Core/DataAccess/IEntityRepository.cs" />
+      <File FileName="Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs" />
+      <File FileName="Core/Enums/Enums.cs" />
+      <File FileName="Entities/DataAccess/Context/TesodevContext.cs" />
+      <File FileName="Entities/Entities/Address.cs" />
+      <File FileName="Entities/Entities/Customer.cs" />
+      <File FileName="Entities/Entities/Order.cs" />
+      <File FileName="Entities/Entities/Product.cs" />
+      <File FileName="Entities/Entities/DataToObjects/IdDTO.cs" />
+      <File FileName="Entities/Models/ConnectionStrings.cs" />
+      <File FileName="CustomerMicroservice/Controllers/CustomerController.cs" Line="49" Column="1" />
+      <File FileName="CustomerMicroservice/DataAccess/Abstract/ICustomerRepository.cs" />
+      <File FileName="CustomerMicroservice/DataAccess/Concrete/EntityFramework/EfCustomerRepository.cs" />
+      <File FileName="CustomerMicroservice/Entities/DataToObjects/CustomerDTO.cs" />
+      <File FileName="OrderMicroservice/Controllers/OrderController.cs" />
+      <File FileName="OrderMicroservice/Entities/DataToObjects/OrderDTO.cs" />
+      <File FileName="OrderMicroservice/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TesodevCManagement" expanded="True">
+            <Node name="Core" expanded="True" />
+            <Node name="CustomerMicroservice" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CustomerController.cs" selected="True" />
+              </Node>
+              <Node name="Entities" expanded="True">
+                <Node name="DataToObjects" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
